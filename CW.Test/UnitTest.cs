@@ -5,7 +5,7 @@ using CW.API;
 namespace CW.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTest
     {
         [TestMethod]
         [ExpectedException(typeof(Exception))]
