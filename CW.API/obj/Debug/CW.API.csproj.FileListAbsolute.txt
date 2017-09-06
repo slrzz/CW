@@ -1,0 +1,5 @@
+c:\users\viktor\documents\visual studio 2017\Projects\CW.Console\CW.API\bin\Debug\CW.API.dll
+c:\users\viktor\documents\visual studio 2017\Projects\CW.Console\CW.API\bin\Debug\CW.API.pdb
+c:\users\viktor\documents\visual studio 2017\Projects\CW.Console\CW.API\obj\Debug\CW.API.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2017\Projects\CW.Console\CW.API\obj\Debug\CW.API.dll
+c:\users\viktor\documents\visual studio 2017\Projects\CW.Console\CW.API\obj\Debug\CW.API.pdb

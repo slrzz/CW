@@ -1,0 +1,8 @@
+c:\users\viktor\documents\visual studio 2017\Projects\CW.Console\CW.Console\bin\Debug\CW.Console.exe.config
+c:\users\viktor\documents\visual studio 2017\Projects\CW.Console\CW.Console\bin\Debug\CW.Console.exe
+c:\users\viktor\documents\visual studio 2017\Projects\CW.Console\CW.Console\bin\Debug\CW.Console.pdb
+c:\users\viktor\documents\visual studio 2017\Projects\CW.Console\CW.Console\bin\Debug\CW.API.dll
+c:\users\viktor\documents\visual studio 2017\Projects\CW.Console\CW.Console\bin\Debug\CW.API.pdb
+c:\users\viktor\documents\visual studio 2017\Projects\CW.Console\CW.Console\obj\Debug\CW.Console.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2017\Projects\CW.Console\CW.Console\obj\Debug\CW.Console.exe
+c:\users\viktor\documents\visual studio 2017\Projects\CW.Console\CW.Console\obj\Debug\CW.Console.pdb
